@@ -44,7 +44,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "בית"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "לו"ז"}
+ - {permalink: "/schedule/", text: "לוז"}
  - {permalink: "/speakers/", text: "דוברים"}
  - {permalink: "/team/", text: "צוות"}
  - {permalink: "/logistics/", text: "Logistics"}
@@ -67,8 +67,8 @@ heroButtons:
 # About Block
 aboutTitle: "אודות"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "כנס", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "סדנאות", image: "workshop.jpg", text: "גדכ שדגלגךכחש שדגכלך חשדךגלכחךדשגכ שדגg and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -89,7 +89,7 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "מיקום"
 eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
