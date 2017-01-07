@@ -44,7 +44,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "בית"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "אג'נדה"}
+ - {permalink: "/schedule/", text: "אגנדה"}
  - {permalink: "/speakers/", text: "דוברים"}
  - {permalink: "/team/", text: "צוות"}
  - {permalink: "/logistics/", text: "Logistics"}
